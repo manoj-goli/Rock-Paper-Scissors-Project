@@ -29,7 +29,7 @@ Computer Science, 1st Year, Python
 
 Github: shane-f03
 
-##Kelvin Tran
-Computer Science, 3rd Year
+## Manoj Goli
+Computer Engineering, Meng, Python
 
-Github: kelvinttran
+Github: Manoj-goli
